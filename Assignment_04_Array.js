@@ -15,6 +15,5 @@ console.log(cars.slice(-2)); // ดึงตำแหน่งเริ่มจ
 
 
 //reverse() กลับลำดับค่าของตัวแปร array
-const name = ["tus", "gus", "phai", "dose"]; // ตัวแปร array
-console.log(name.reverse()); 
+
 
