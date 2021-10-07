@@ -12,7 +12,8 @@ const cars = ["Toyota","Honda","Isuzu","Mitsubishi"];  // ตัวแปร arr
 console.log(cars.slice(-2)); // ดึงตำแหน่งเริ่มจาก 2 ตัวหลัง 
 
 //ex3
-
+const city = ["BangKok" , "HongKong" , "Tokyo" , "Mumbai"]
+console.log(city.slice(1,3));
 
 
 
